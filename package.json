@@ -1,0 +1,25 @@
+{
+  "name": "deeprism",
+  "version": "1.0.0",
+  "description": "Private discord bot for deeprism discord server",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "js",
+    "discord"
+  ],
+  "author": "Your Reality#0001",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "cli-color": "^2.0.0",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "node-opus": "^0.3.3",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^1.0.7"
+  }
+}

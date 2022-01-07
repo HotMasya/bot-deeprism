@@ -1,0 +1,20 @@
+{
+    "prefix":"/", 
+    "guildID": "669212942520156182", 
+
+    "privateChannelID": "672531003167866880",     
+    "privateTextChannelID": "669221917718478891",  
+    "privateCategoryID": "669221869907607563",
+
+    "agreementMsgID": "673566112788643850",
+    "mainChannelID": "669212942520156188",
+    "uniqueRoleID": "669226630547374090",
+    "rulesChannelID": "669219284106346506",
+
+    "colors": {
+        "blue": "#25bae7",
+        "red": "#980000",
+        "yellow": "#fff852",
+        "dark_purple": "#460061"
+    }
+}
